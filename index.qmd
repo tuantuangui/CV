@@ -53,8 +53,11 @@ adult acute lymphoblastic leukemia** (*PNAS*, Revised, Co-first author)
 **Others:**
 
 5. Min Emma Huang, Yining Qin, Yafang Shang, Qian Hao, Chuanzong Zhan, Chaoyang Lian, Simin Luo, Liu Daisy Liu, Senxin Zhang, Yu Zhang, Yang Wo, Niu Li, Shuheng Wu, **Tuantuan Gui**, Binbin Wang, Yifeng Luo, Yanni Cai, Xiaojing Liu, Ziye Xu, Pengfei Dai, Simiao Li, Liang Zhang, Junchao Dong, Jian Wang, Xiaoqi Zheng, Yingjie Xu, Yihua Sun, Wei Wu, Leng-Siew Yeap, Fei-Long Meng. **C-to-G editing generates double-strand breaks causing deletion, transversion and translocation**, 2024, *Nat Cell Biol*
+
 6. Yanyan Wang, Senxin Zhang, Xinrui Yang, Joyce K Hwang, Chuanzong Zhan, Chaoyang Lian, Chong Wang, **Tuantuan Gui**, Binbin Wang, Xia Xie, Pengfei Dai, Lu Zhang, Ying Tian, Huizhi Zhang, Chong Han, Yanni Cai, Qian Hao, Xiaofei Ye, Xiaojing Liu, Jiaquan Liu, Zhiwei Cao, Shaohui Huang, Jie Song, Qiang Pan-Hammarström, Yaofeng Zhao, Frederick W Alt, Xiaoqi Zheng, Lin-Tai Da, Leng-Siew Yeap, Fei-Long Meng. **Mesoscale DNA feature in antibody-coding sequence facilitates somatic hypermutation**, 2023, *Cell*
+
 7. Qian Hao, Chuanzong Zhan, Chaoyang Lian, Simin Luo, Wenyi Cao, Binbin Wang, Xia Xie, Xiaofei Ye, **Tuantuan Gui**, Claudia Voena, Chiara Pighi, Yanyan Wang, Ying Tian, Xin Wang, Pengfei Dai, Yanni Cai, Xiaojing Liu, Shengqun Ouyang, Shiqi Sun, Qianwen Hu, Jun Liu, Youqiong Ye, Jingkun Zhao, Aiguo Lu, Ji-Yang Wang, Chuanxin Huang, Bing Su, Fei-Long Meng, Roberto Chiarle, Qiang Pan-Hammarström, Leng-Siew Yeap. **DNA repair mechanisms that promote insertion-deletion events during immunoglobulin gene diversification**, 2023, *Sci Immunol*
+
 8. Dingpeng Yang, Ying Sun, Jingjing Chen, Ying Zhang, Shuangshuang Fan, Min Huang, Xia Xie, Yanni Cai, Yafang Shang, **Tuantuan Gui**, Liming Sun, Jiazhi Hu, Junchao Dong, Leng-Siew Yeap, Xiaoming Wang, Wei Xiao, Fei-Long Meng. **REV7 is required for processing AID initiated DNA lesions in activated B cells**, 2020, *Nat Commun*
 
 ## [Research Experience]{style="color: #990000"}
@@ -75,7 +78,9 @@ both metabolite-metabolite and gene-metabolite interactions, offering a thorough
 metabolic interconnections
 
 **Analysis of the metabolism and RNA-seq data from acute lymphoblastic leukemia patients**  
+
 **Code:** http://www.genetictargets.com/MALL2BOOKLET/index.html  
+
 1. The intracellular and serum metabolomic profile was constructed based on the MNet  
 2. Enabling the development of a clustering system to supplement existing risk stratification based on the
 comprehensive metabolic information dataset
