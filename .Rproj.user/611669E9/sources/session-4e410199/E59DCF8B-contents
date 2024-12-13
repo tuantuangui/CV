@@ -65,7 +65,6 @@ adult acute lymphoblastic leukemia** (*PNAS*, Revised, Co-first author)
 **Creation of R package MNet and website**
 
 **Code:** https://github.com/tuantuangui/MNet    
-**Website:** http://www.mnet4all.com/MNet/
 
 1. MNet incorporates ‘dbMNet’, an expert-curated knowledgebase serving as a unique reference resource for
 metabolomics, which includes all currently available gene-metabolite and metabolite-metabolite pairs in
@@ -78,8 +77,6 @@ both metabolite-metabolite and gene-metabolite interactions, offering a thorough
 metabolic interconnections
 
 **Analysis of the metabolism and RNA-seq data from acute lymphoblastic leukemia patients**  
-
-**Code:** http://www.genetictargets.com/MALL2BOOKLET/index.html  
 
 1. The intracellular and serum metabolomic profile was constructed based on the MNet  
 2. Enabling the development of a clustering system to supplement existing risk stratification based on the
