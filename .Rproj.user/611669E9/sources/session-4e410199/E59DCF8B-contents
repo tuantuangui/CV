@@ -4,7 +4,7 @@ format:
     embed-resources: true
 ---
 
-# [GUI, tuantuan, PhD]{style="color: navy"}
+# [Gui, Tuantuan, PhD]{style="color: navy"}
 
 School of Life Sciences and Biotechnology, Shanghai Jiao Tong University, Shanghai 200030, China
 
@@ -58,7 +58,7 @@ adult acute lymphoblastic leukemia** (***PNAS***, Revised, Co-first author)
 
 ## [Research Experience]{style="color: #990000"}
 
-**Creation of R package MNet and website**
+**1. Creation of R package MNet and website**
 
 **Code:** https://github.com/tuantuangui/MNet    
 
@@ -66,7 +66,7 @@ adult acute lymphoblastic leukemia** (***PNAS***, Revised, Co-first author)
 3.	Its extended pathway analysis algorithms support extended pathway analysis, aiming to identify dysregulated metabolic pathways by considering both metabolites and genes. 
 4.	Its network-driven capabilities for metabolism-related subnetwork analysis enable a systems-level understanding of metabolic interconnections.
 
-**Analysis of the metabolism and RNA-seq data from acute lymphoblastic leukemia patients**  
+**2. Analysis of the metabolism and RNA-seq data of acute lymphoblastic leukemia patients**  
 
 1. The intracellular and serum metabolomic profile was constructed based on the MNet  
 2. Enabling the development of a clustering system to supplement existing risk stratification based on the
@@ -74,6 +74,27 @@ comprehensive metabolic information dataset
 
 ![](overview.png)
 **Figure 1.** Serum metabolome, cellular metabolome and cellular transriptome was analysised by software MNet. The results revealed a predominant increase in bile acid (BA) metabolites in serum, alongside metabolic rewiring that supported highly proliferative states and actively metabolic signaling, such as enriched nucleotide metabolism in leukemic blasts. By integrating intracellular metabolomics and transcriptomics, the Comprehensive Metabolic Information Dataset facilitated the development of a clustering system to supplement current risk stratification by MNet. The combined use of simvastatin with vincristine and dexamethasone regimen demonstrated a synergistic therapeutic effect in a murine ALL model by targeting the serum BA profile, effectively lowering key BA levels in serum and suppressing the infiltration of leukemic blasts in the liver.
+
+**3. Machine learning analysis of hepatocellular carcinoma samples**  
+
+I have applied a machine learning approach with maximum-relevance-minimum-redundancy (mRMR) algorithm followed by incremental feature selection (IFS) to a set of microarray data generated from hepatocellular carcinoma samples, and showed that the identified subnetwork is significantly enriched in biological processes related to cell death.
+
+**4. Immunology research**  
+
+I have applied the in-house pipeline to find the somatic hypermutation in IG genes, which was initiated by activation-induced cytidine deaminase (AID). This process generates mutations in the antibody-coding sequence, allowing for affinity maturation.
+
+
+## [Research Interest]{style="color: #990000"}
+
+My overarching research interests are bioinformatics algorithms development for multi-omics data, and their application to cancer research. Specifically, I am interested in the field, including:
+
+1. Metabolic network analysis,
+
+2. Metabolome and multi-omics data integration,
+
+3. Immunology data analysis,
+
+4. Immunology and metabolome data integration.
 
 ## [Research Skills]{style="color: #990000"}
 
@@ -85,11 +106,7 @@ comprehensive metabolic information dataset
 
 **3. Liquid Biopsy Analysis:** I have developed a novel method to analyze circulating tumor DNA (ctDNA) , which could find the mutations or indels in cancer patients' plasma samples.
 
-**4. Machine Learning:** I have applied a machine learning approach with maximum-relevance-minimum-redundancy (mRMR) algorithm followed by incremental feature selection (IFS) to a set of microarray data generated from hepatocellular carcinoma samples, and showed that the identified subnetwork is significantly enriched in biological processes related to cell death.
-
-**5. Immunology Research:** I have applied the in-house pipeline to find the somatic hypermutation in IG genes, which was initiated by activation-induced cytidine deaminase (AID). This process generates mutations in the antibody-coding sequence, allowing for affinity maturation.
-
-**6. Programming:** Proficient in using Linux operating systems, Perl and Python in data analysis, R in data analysis and visualization.
+**4. Programming:** Proficient in using Linux operating systems, Perl and Python in data analysis, R in data analysis and visualization.
 
 **Visualization**  
 
